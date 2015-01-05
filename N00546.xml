@@ -119,8 +119,8 @@
    <text xml:lang="eng">
       <body>
          <div type="account">
-            <pb facs="tcp:000674_0000_0FA99F5FED68EC78"/>
-            <pb n="1" facs="tcp:000674_0001_0FA99F61C76831C8"/>
+            <pb facs="unknown:000674_0000_0FA99F5FED68EC78"/>
+            <pb n="1" facs="unknown:000674_0001_0FA99F61C76831C8"/>
             <head>AN ACCOUNT OF Several Passages and Letters between his Excellency Benjamin Fletcher,
 Captain General and Governour in Chief of the Province of <hi>New-York,</hi> Province of <hi>Pennsilvania,</hi> Country of <hi>New-Castle, &amp;c.</hi> Commissionated by their Majesties under the great Seal of <hi>England,</hi> to be their Lieut. and Commander in chief of the Militia, and of all the Forces by Sea and Land within their Majesties Collony of <hi>Connecticut,</hi> and of all the Forts and places of Strength within the same. AND The present Administrators of the Laws in the Collony of <hi>CONNECTICUT,</hi> in the Month of <hi>October,</hi> 1693.</head>
             <p>On the 13th of <hi>October,</hi> his Excellency departed from <hi>New-York,</hi> towards <hi>Connecticut,</hi> in order to the Publication of their Majesties Letters Patents for, and taking upon him the Command of the Militia in that Collony.</p>
@@ -143,7 +143,7 @@ Captain General and Governour in Chief of the Province of <hi>New-York,</hi> Pro
             </floatingText>
             <p>Hereunto his Excellency received no Answer.</p>
             <p>
-               <pb n="2" facs="tcp:000674_0002_0FA99F627481F888"/>
+               <pb n="2" facs="unknown:000674_0002_0FA99F627481F888"/>
 The 15th day his Excellency arrived at <hi>New-Haven,</hi> and <gap reason="illegible: indecipherable" extent="1 word">
                   <desc>〈◊〉</desc>
                </gap> Horses not coming, on the 17th he wrote this following Letter to the Governor and General Court of <hi>Connecticut,</hi> sitting at <hi>Hartford.</hi>
@@ -207,7 +207,7 @@ The 15th day his Excellency arrived at <hi>New-Haven,</hi> and <gap reason="ille
                   <p>THis day about 10 a clock I had the favour of yours. Finding the wind continue Northerly, I can get no news of my Horses, so <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> I cannot propose getting up to <hi>Hartford</hi> tomorrow. I therefore 
-<pb n="3" facs="tcp:000674_0003_0FA99F62ED02DF78"/>
+<pb n="3" facs="unknown:000674_0003_0FA99F62ED02DF78"/>
 desire that you will please to adjourn to this place, where a very short <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> will allow me to lay before you such things as I have to offer for their Majesties service. I am, Gentlemen, <hi>Your humble Servant,</hi>
@@ -267,7 +267,7 @@ desire that you will please to adjourn to this place, where a very short <gap re
                      <salute>Gentlemen;</salute>
                   </opener>
                   <p>WE are come from the General to acquaint you, that just now he received an Express, with Letters from <hi>Albany,</hi> which give him 
-<pb n="4" facs="tcp:000674_0004_0FA99F63AD99D018"/>
+<pb n="4" facs="unknown:000674_0004_0FA99F63AD99D018"/>
 an account of the weakness of that Garrison, and the growing strength <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Enemy.</p>
@@ -290,7 +290,7 @@ an account of the weakness of that Garrison, and the growing strength <gap reaso
                      <hi>To his Excellency</hi> Benjamin Fletcher, <hi>Captain General and Governour in Chief of their Majesties Province of</hi> New-York, &amp;c.</opener>
                   <p>IN Return to your Excellency's Demands of the Militia, of us their Majesties general Court of their Collony of <hi>Connecticut,</hi> We say, That finding in your Excellency's Commission no express superseding of the Commission of the Militia in our Charter, nor no Order to us from their Majesties to surrender the same; and being sensible of the great Importance of this matter, and finding it in several main things which do need a particular Explication and Settlement, as we shall, God willing, manifest to their Majesties, cannot but conceive it our Duty, both with respect to their Majesties Service, and our own Peace and Preservation in this time of War, to continue the Militia as formerly, till by our Agent now sent for <hi>England,</hi> we shall receive farther Orders from their Majesties.</p>
                   <p>
-                     <pb n="5" facs="tcp:000674_0005_0FA99F646DCF99A0"/>
+                     <pb n="5" facs="unknown:000674_0005_0FA99F646DCF99A0"/>
 And <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Obedience to their Majesties gracious Letters, of <hi>March</hi> the <hi>3d.</hi> 1692. We shall be ready upon all just occasions, to yeild Assistance to his Excellency Coll. <hi>Benjamin Fletcher,</hi> 
@@ -368,7 +368,7 @@ And <gap reason="illegible: indecipherable" extent="1 word">
                      </gap> forth Proo<g ref="char:EOLhyphen"/>clamation, shewing the method he has taken for the ease and satisfaction of their Majesties Subjects in this Collony, leaving the Militia in the same hands he found it. And I am also directed by his Excellency to make you, Governour <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap>
-                     <pb n="6" facs="tcp:000674_0006_0FA99F652BA975B0"/>
+                     <pb n="6" facs="unknown:000674_0006_0FA99F652BA975B0"/>
 tender of a Commission from him, for the Command of all the Militia in this Collony. And also to acquaint this Court, That his Excellency has neither Power nor Intention to invade any of their Civil Rights, but that all things may run in the same Channel, with <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> alteration, but only your acknowledging the Power of the Militia an inherent Right in their Majesties.</p>
@@ -413,7 +413,7 @@ tender of a Commission from him, for the Command of all the Militia in this Coll
             <p>And the next day this following Memorial.</p>
             <floatingText type="letter">
                <body>
-                  <pb n="7" facs="tcp:000674_0007_0FA99F65ED363418"/>
+                  <pb n="7" facs="unknown:000674_0007_0FA99F65ED363418"/>
                   <opener>A Memorial from the Governour and General Court of Connecticut Collony, To <gap reason="illegible: indecipherable" extent="1 word">
                         <desc>〈◊〉</desc>
                      </gap> Excellency Benjamin Fletcher, the 27th of October, 1693. <salute>Excellent SIR,</salute>
@@ -465,7 +465,7 @@ tender of a Commission from him, for the Command of all the Militia in this Coll
                </gap> their present Majesties came to the Crown, said,</p>
             <q>
                <p>
-                  <pb n="8" facs="tcp:000674_0008_0FA99F66AF417538"/>
+                  <pb n="8" facs="unknown:000674_0008_0FA99F66AF417538"/>
                   <hi>Gentlemen</hi> You cannot say you had the Power of the <gap reason="illegible: indecipherable" extent="1 word">
                      <desc>〈◊〉</desc>
                   </gap> in the late Reign, Sir <hi>Edmund Andr<gap reason="illegible: indecipherable" extent="2 letters">
